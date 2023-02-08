@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Fatorial\fatorial\bin\Debug\testeWhile.exe.config
+C:\Users\usuario\source\repos\Fatorial\fatorial\bin\Debug\testeWhile.exe
+C:\Users\usuario\source\repos\Fatorial\fatorial\bin\Debug\testeWhile.pdb
+C:\Users\usuario\source\repos\Fatorial\fatorial\obj\Debug\fatorial.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Fatorial\fatorial\obj\Debug\testeWhile.exe
+C:\Users\usuario\source\repos\Fatorial\fatorial\obj\Debug\testeWhile.pdb

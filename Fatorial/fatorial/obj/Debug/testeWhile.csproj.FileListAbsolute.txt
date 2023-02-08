@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\testeWhile\testeWhile\bin\Debug\testeWhile.exe.config
+C:\Users\usuario\source\repos\testeWhile\testeWhile\bin\Debug\testeWhile.exe
+C:\Users\usuario\source\repos\testeWhile\testeWhile\bin\Debug\testeWhile.pdb
+C:\Users\usuario\source\repos\testeWhile\testeWhile\obj\Debug\testeWhile.exe
+C:\Users\usuario\source\repos\testeWhile\testeWhile\obj\Debug\testeWhile.pdb
+C:\Users\usuario\source\repos\testeWhile\testeWhile\obj\Debug\testeWhile.csprojAssemblyReference.cache
